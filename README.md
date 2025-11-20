@@ -12,6 +12,11 @@ This repository is a scaffolded Laravel 12 application with a Clean Code archite
 
 ## Setup
 
+Download Source Code:
+```bash
+https://github.com/indragotik/test-kledo.git
+```
+
 Requirements:
 
 - PHP (as required by your project)
